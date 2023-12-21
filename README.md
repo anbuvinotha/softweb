@@ -654,10 +654,9 @@ Using AI, robots and other next-generation technologies, a lights-out factory op
 </html>
 ```
 ## OUTPUT:
-![Alt text](<../Screenshot (23).png>)
-![Alt text](<../Screenshot (25).png>)
-![Alt text](<../Screenshot (26).png>)
-![Alt text](<../Screenshot (27).png>)
-
+![Alt text](<Screenshot (23).png>)
+![Alt text](<Screenshot (26).png>)
+![Alt text](<Screenshot (27).png>)
+![Alt text](<Screenshot (25).png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
